@@ -30,5 +30,5 @@ git add .
 > The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 ## 鏈接
-This site was built using [GitHub Pages](link1).
+This site was built using [GitHub Pages](https://github.com/yungfun1219).
 
