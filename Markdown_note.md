@@ -32,3 +32,31 @@ git add .
 ## 鏈接
 This site was built using [GitHub Pages](https://github.com/yungfun1219).
 
+## 支援HTML標籤
+<p align="right">右對齊</P>
+<p align="left">左對齊</P>
+<center>居中對齊 </center>
+
+***
+## 轉意 \\
+要印出*
+可用**轉意**
+
+## 數學公式  (用$包起來)
+\$f(x)=sinx\$ 公式為$f(x)=sinx$
+
+
+$$
+\begin{Bmatrix}
+a & b \\
+c & d
+\end{Bmatrix}
+$$
+
+$$
+\begin{CD}
+A @>>> B\\
+@VbVV @AAcA \\
+c @=D
+\end{CD}
+$$
