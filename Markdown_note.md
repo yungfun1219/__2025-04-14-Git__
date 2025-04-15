@@ -32,3 +32,5 @@ git add .
 ## 鏈接
 This site was built using [GitHub Pages](https://github.com/yungfun1219).
 
+[連結到我的HackMD](https://hackmd.io/SnXIrmfETMCRIou_gY6Jqg?view)
+
