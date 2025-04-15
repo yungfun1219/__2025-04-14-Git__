@@ -32,6 +32,7 @@ git add .
 ## 鏈接
 This site was built using [GitHub Pages](https://github.com/yungfun1219).
 
+<<<<<<< HEAD
 ## 支援HTML標籤
 <p align="right">右對齊</P>
 <p align="left">左對齊</P>
@@ -60,3 +61,7 @@ A @>>> B\\
 c @=D
 \end{CD}
 $$
+=======
+[連結到我的HackMD](https://hackmd.io/SnXIrmfETMCRIou_gY6Jqg?view)
+
+>>>>>>> 1a46281969c1651233ef4a0a0a43961f48c13a7a
